@@ -1,0 +1,15 @@
+.video-section {
+     text-align: center;
+}
+
+.video-section h2 {
+     font-size: 24px;
+     margin-bottom: 20px;
+}
+
+.video-container {
+     display: grid;
+     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+     grid-gap: 40px;
+
+}

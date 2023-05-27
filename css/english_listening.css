@@ -1,0 +1,47 @@
+.main_section {
+     background-color: aquamarine;
+}
+
+.section {
+
+     display: flex;
+     padding: 5%;
+}
+
+.content h1 {
+     text-align: center;
+}
+
+.left {
+     width: 50%;
+     padding-right: 20px;
+}
+
+.right {
+     width: 50%;
+     margin-top: 5%;
+     padding: 0 25px;
+
+
+}
+
+
+
+img {
+     max-width: 100%;
+     height: auto;
+     border-radius: 10px;
+}
+
+.learn {
+     width: 70%;
+     margin: auto;
+     margin-bottom: 100px;
+}
+
+.learn h1 {
+     text-align: center;
+     color: palevioletred;
+     font-size: 30px;
+
+}
